@@ -1,0 +1,12 @@
+L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Domain\bin\Debug\net7.0\Produtos.Domain.deps.json
+L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Domain\bin\Debug\net7.0\Produtos.Domain.dll
+L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Domain\bin\Debug\net7.0\Produtos.Domain.pdb
+L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Domain\obj\Debug\net7.0\Produtos.Domain.csproj.AssemblyReference.cache
+L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Domain\obj\Debug\net7.0\Produtos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Domain\obj\Debug\net7.0\Produtos.Domain.AssemblyInfoInputs.cache
+L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Domain\obj\Debug\net7.0\Produtos.Domain.AssemblyInfo.cs
+L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Domain\obj\Debug\net7.0\Produtos.Domain.csproj.CoreCompileInputs.cache
+L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Domain\obj\Debug\net7.0\Produtos.Domain.dll
+L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Domain\obj\Debug\net7.0\refint\Produtos.Domain.dll
+L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Domain\obj\Debug\net7.0\Produtos.Domain.pdb
+L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Domain\obj\Debug\net7.0\ref\Produtos.Domain.dll
