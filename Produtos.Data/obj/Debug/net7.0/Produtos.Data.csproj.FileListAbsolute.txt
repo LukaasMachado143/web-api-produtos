@@ -13,3 +13,5 @@ L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Data\
 L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Data\obj\Debug\net7.0\refint\Produtos.Data.dll
 L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Data\obj\Debug\net7.0\Produtos.Data.pdb
 L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Data\obj\Debug\net7.0\ref\Produtos.Data.dll
+L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Data\bin\Debug\net7.0\Produtos.Data.runtimeconfig.json
+L:\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\web-api-produtos\Produtos.Data\obj\Debug\net7.0\Produtos.Data.genruntimeconfig.cache
