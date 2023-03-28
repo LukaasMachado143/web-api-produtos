@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Produtos.Data.Context;
+using Produtos.Domain.Interfaces.Services;
 
 namespace Produtos.API.Controllers
 {
@@ -10,10 +12,15 @@ namespace Produtos.API.Controllers
     [Route("api/[controller]")]
     public class ProdutoController : ControllerBase
     {
+        private readonly IProdutoService _produtoService;
+
+        public ProdutoController(IProdutoService produtoService) => _produtoService = produtoService;
+        
         [HttpGet]
         public string Get()
         {   
             return "Neste método será recuperado todos os produtos cadastrados no BD";
+           
         }
         
         [HttpGet("{nomeProduto}")]

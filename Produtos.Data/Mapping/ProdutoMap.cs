@@ -13,9 +13,9 @@ namespace Produtos.Data.Mapping
     {
         public void Configure(EntityTypeBuilder<ProdutoModel> builder)
         {
-            builder.ToTable("Produtos");
+            builder.ToTable("Products");
             builder.Property(x => x.Name).HasColumnType("varchar(100)");
-            builder.Property(x => x.Name).HasColumnType("varchar(100)");
+            builder.Property(x => x.Brand).HasColumnType("varchar(100)");
             builder.Property(x => x.QuantityStock).HasDefaultValue(0);
         }
 
