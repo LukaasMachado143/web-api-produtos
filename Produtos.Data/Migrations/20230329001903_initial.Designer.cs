@@ -10,7 +10,7 @@ using Produtos.Data.Context;
 namespace Produtos.Data.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20230327184852_initial")]
+    [Migration("20230329001903_initial")]
     partial class initial
     {
         /// <inheritdoc />
@@ -40,7 +40,7 @@ namespace Produtos.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Produtos", (string)null);
+                    b.ToTable("Products", (string)null);
                 });
 #pragma warning restore 612, 618
         }
